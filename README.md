@@ -1,4 +1,4 @@
-A Repository to store 3D model objects of JSRF characters.
+A Repository to store content of JSRF assets. Includes 3D model objects of JSRF characters and JSRF audio files.
 
 Feel free to add more models if you are willing to.
 
